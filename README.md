@@ -1,2 +1,9 @@
 # Mining-projexct
-download data and extract outliers and remove it and know correlation between each columns and making knn algorithm and kmeans using python
+- Remove irrelevant attributes
+- Remove noise
+- Remove correlated attributes 
+      . Correlation rate greater than or equal 0.8 for positive correlation
+      . Correlation rate less than or equal -0.8 for negative correlation
+- missing handling
+- Remove duplicate records
+- Making knn algorithm and kmeans using python
